@@ -1,3 +1,3 @@
 # Quotes
 
-##This is a simple site with some quotes.
+This is a simple site with some quotes.
